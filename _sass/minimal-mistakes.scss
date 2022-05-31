@@ -38,3 +38,9 @@
 @import "minimal-mistakes/archive";
 @import "minimal-mistakes/sidebar";
 @import "minimal-mistakes/print";
+
+/* Generates full width posts (disable left side bar) */
+article.page {
+    float: left;
+    width: 100%;
+}

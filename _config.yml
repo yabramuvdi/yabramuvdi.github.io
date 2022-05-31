@@ -103,16 +103,18 @@ analytics:
 # Site Author
 author:
   name             : "Yabra Muvdi"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am...."
+  avatar           : "/images/bio_photo.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  bio              : "*Predoctoral Researcher* <br>
+                      *Barcelona School of Economics*
+                      "
   #location         : "Somewhere"
   #email            : "yabran dot muvdi at gmail dot com"
   github           : "yabramuvdi"
   linkedin         : "yabra-muvdi"
-  links:
-    - label: "Resume"
-      icon: "far fa-fw fa-file-pdf"
-      url: "https://docs.google.com/document/d/1xo4-SbLsj2PnUevI9NFvZ4jPp0IMO3W4K_-CFJZabdY/edit?usp=sharing"
+  # links:
+  #   - label: "Resume"
+  #     icon: "far fa-fw fa-file-pdf"
+  #     url: "https://docs.google.com/document/d/1xo4-SbLsj2PnUevI9NFvZ4jPp0IMO3W4K_-CFJZabdY/edit?usp=sharing"
     # - label: "Email"
     #   icon: "fas fa-fw fa-envelope-square"
     #   # url: "mailto:your.name@email.com"
