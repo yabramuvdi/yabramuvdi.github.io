@@ -96,7 +96,7 @@ social:
 analytics:
   provider               : "google-gtag" # false (default), "google", "google-universal", "google-gtag", "custom"
   google:
-    tracking_id          : "320102033"
+    tracking_id          : "G-789BJ5F2XD"
     anonymize_ip         : false # true, false (default)
 
 
@@ -107,7 +107,7 @@ author:
   bio              : "*Predoctoral Researcher* <br>
                       *Barcelona School of Economics*
                       "
-  location         : "Somewhere"
+  location         : "Somewhere in the world"
   #email            : "yabran dot muvdi at gmail dot com"
   github           : "yabramuvdi"
   linkedin         : "yabra-muvdi"
