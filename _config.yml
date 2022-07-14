@@ -20,7 +20,7 @@ title                    : #"Yabra Muvdi"
 title_separator          : "-"
 subtitle                 : #"A subtitle" # site tagline that appears below site title in masthead
 name                     : "Yabra Muvdi"
-description              : "A simple description of the webpage"
+description              : "Personal page of Yabra Muvdi"
 url                      : "https://yabramuvdi.github.io/" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
