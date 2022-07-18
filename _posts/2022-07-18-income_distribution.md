@@ -5,9 +5,7 @@ date: 2022-07-18
 use_math: true
 comments: true
 []: #classes: wide
-toc: true
-toc_label: "Table of Contents"
-toc_icon: "scroll"
+toc: false
 author_profile: false
 ---
 
@@ -15,4 +13,4 @@ author_profile: false
 
 ------------
 
-{% include figure_dist.html %}
+{% include plots/figure_dist.html %}
