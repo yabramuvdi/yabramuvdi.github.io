@@ -11,5 +11,4 @@ main:
   - title: "Resources"
     url: /resources/
   - title: "CV"
-#    url: https://docs.google.com/document/d/1xo4-SbLsj2PnUevI9NFvZ4jPp0IMO3W4K_-CFJZabdY/edit?usp=sharing
-     url: /files/CV.pdf
+     url: ![alt]({{ site.url }}{{ site.baseurl }}/files/CV.pdf)
