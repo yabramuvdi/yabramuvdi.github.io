@@ -14,3 +14,7 @@ author_profile: false
 ------------
 
 {% include plots/figure_dist.html %}
+
+{% include plots/figure_dist_ref.html %}
+
+{% include plots/figure_dist_region.html %}
