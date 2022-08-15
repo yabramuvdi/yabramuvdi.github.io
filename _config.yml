@@ -16,7 +16,7 @@ minimal_mistakes_skin    : "dirt" #"default" # "air", "aqua", "contrast", "dark"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Yabra Muvdi"
+title                    : ""
 title_separator          : "-"
 subtitle                 : #"A subtitle" # site tagline that appears below site title in masthead
 name                     : "Yabra Muvdi"
@@ -107,8 +107,8 @@ author:
   bio              : "*Predoctoral Researcher* <br>
                       *Barcelona School of Economics*
                       "
-  location         : "Somewhere in the world"
-  #email            : "yabran dot muvdi at gmail dot com"
+  #location         : "Somewhere in the world"
+  email            : "yabran [dot] muvdi [at] gmail [dot] com"
   github           : "yabramuvdi"
   linkedin         : "yabra-muvdi"
   # links:
