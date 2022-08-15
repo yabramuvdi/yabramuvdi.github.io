@@ -16,7 +16,6 @@ I am currently working with professor [Stephen Hansen]() to build models and too
 - Measuring the evolution of economic uncertainty with word embeddings.
 
 ------
-------
 
 ## Undergraduate research
 
