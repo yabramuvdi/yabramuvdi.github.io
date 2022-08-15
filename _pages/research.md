@@ -12,3 +12,5 @@ I am currently working with professor Stephen Hansen to build models and tools f
 - Characterizing firms within a trade network through the use of embedding models.
 - Measuring the evolution of economic uncertainty with word embeddings.
 
+![alt]({{ site.url }}{{ site.baseurl }}/images/azulejos.jpg)
+{: .full}

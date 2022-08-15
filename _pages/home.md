@@ -7,18 +7,8 @@ comments: false
 ---
 # About me
 
-I am an Economist and Data Scientist interested in exploring how diverse statistical and computational methods can enrich the understanding of complex and relevant problems while contributing to their solution. 
+I am a predoctoral researcher in economics and machine learning at the [Barcelona School of Economics](https://datascience.bse.eu/team/yabra-muvdi/) where I work with  professor [Stephen Hansen](https://sekhansen.github.io/) to build models and tools for the use of unstructured data in economic analysis.
 
-I am currently a predoctoral researcher working with professor [Stephen Hansen](https://sekhansen.github.io/) to build models and tools for the use of unstructured data in economic analysis. Before, getting my master's in Data Science at the Barcelona School of Economics, I worked for two years in the international development sector where I analyzed data to inform the creation and implementation of multiple social programs.
+I am particularly interested on the study and quantification of inequalities (e.g. income, gender, migration).
 
-![alt]({{ site.url }}{{ site.baseurl }}/images/azulejos.jpg)
-{: .full}
-
--------
--------
-
-# Most recent posts
-
-{% for post in site.posts %}
-    {% include archive-single.html %}
-{% endfor %}
+I hold an Msc in Data Science from the [Barcelona School of Economics](https://bse.eu/), and a BA in Economics from [University of Los Andes](https://economia.uniandes.edu.co/). Before moving to Barcleona, I worked for two years at [Instiglio](https://www.instiglio.org/) - a social enterprise focused on the design of innovative financial mechanisms to improve the impact of social programs- where I analyzed data to inform these designs.

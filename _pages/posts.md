@@ -6,7 +6,7 @@ author_profile: true
 comments: true
 ---
 
-This is my blog page.
+My most recet posts
 
 {% for post in site.posts %}
     {% include archive-single.html %}
