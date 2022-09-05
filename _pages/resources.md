@@ -6,4 +6,4 @@ author_profile: true
 comments: true
 ---
 
-List of resources I have found useful.
+:warning: This page is under construction.
