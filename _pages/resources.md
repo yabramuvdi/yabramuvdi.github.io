@@ -6,4 +6,4 @@ author_profile: true
 comments: false
 ---
 
-:warning: This page is under construction :sweat_smile: .
+:warning: This page is under construction ⚠️.
