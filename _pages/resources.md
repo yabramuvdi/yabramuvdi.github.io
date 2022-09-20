@@ -3,7 +3,7 @@ title:  "Resources"
 layout: archive
 permalink: /resources/
 author_profile: true
-comments: true
+comments: false
 ---
 
-List of resources I have found useful.
+⚠️This page is under construction ⚠️
