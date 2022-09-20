@@ -16,6 +16,12 @@ I am currently working with professor [Stephen Hansen](https://sekhansen.github.
 
 ------
 
+## Master's
+
+As part of my masters at the Barcelona School of Economics I wrote a short thesis analazying the tweets from politicians participating in the 2017 elections of Germany, France and UK. [Available here](https://yabramuvdi.github.io/files/Master_Thesis.pdf).
+
+------
+
 ## Undergraduate research
 
 During my undergraduate at University of Los Andes I worked with professor [Adriana Camacho](https://economia.uniandes.edu.co/camacho) performing data analysis to better understand public policy issues related to poverty, health and education in Colombia. Some of our main projects included:
