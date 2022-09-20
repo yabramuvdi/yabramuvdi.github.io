@@ -8,6 +8,6 @@ comments: true
 
 My most recent posts
 
-{% for post in site.blog %}
+{% for post in site.posts %}
     {% include archive-single.html %}
 {% endfor %}
