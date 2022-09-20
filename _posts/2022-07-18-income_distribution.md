@@ -1,8 +1,6 @@
 ---
 layout: single
 title: "Visualizing Colombia´s Income Distribution"
-header:
-    teaser: /images/azulejos.jpg
 date: 2022-07-18
 use_math: true
 comments: true
@@ -11,6 +9,8 @@ toc: true
 toc_label: "Table of Contents"
 toc_icon: "scroll"
 author_profile: false
+header:
+  teaser: /images/azulejos.jpg
 ---
 
 *Preliminary exploration of interactive plots for Colombia's income distribution.*
