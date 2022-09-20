@@ -1,6 +1,8 @@
 ---
 layout: single
 title: "Visualizing Colombia´s Income Distribution"
+header:
+    teaser: /images/azulejos.jpg
 date: 2022-07-18
 use_math: true
 comments: true
