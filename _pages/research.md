@@ -2,7 +2,7 @@
 title:  "Research"
 layout: archive
 permalink: /research/
-author_profile: true
+author_profile: false
 classes: wide
 comments: false
 ---
