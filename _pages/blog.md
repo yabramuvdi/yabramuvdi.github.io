@@ -1,13 +1,8 @@
 ---
 title:  "Blog"
-layout: archive
+layout: posts
 permalink: /blog/
-author_profile: true
-comments: true
+author_profile: false
+comments: false
+entries_layout: grid
 ---
-
-My most recent posts
-
-{% for post in site.posts %}
-    {% include archive-single.html %}
-{% endfor %}

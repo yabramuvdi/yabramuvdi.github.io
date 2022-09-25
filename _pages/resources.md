@@ -2,7 +2,7 @@
 title:  "Resources"
 layout: archive
 permalink: /resources/
-author_profile: true
+author_profile: false
 comments: false
 ---
 

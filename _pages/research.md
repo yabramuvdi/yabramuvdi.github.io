@@ -3,9 +3,9 @@ title:  "Research"
 layout: archive
 permalink: /research/
 author_profile: false
-classes: wide
 comments: false
 ---
+
 
 ## Predoctoral research
 
@@ -19,7 +19,7 @@ I am currently working with professor [Stephen Hansen](https://sekhansen.github.
 
 ## Master's
 
-As part of my masters at the Barcelona School of Economics I wrote a short thesis analazying the tweets from politicians participating in the 2017 elections of Germany, France and UK. [Available here](https://yabramuvdi.github.io/files/Master_Thesis.pdf).
+As part of my masters at the Barcelona School of Economics I wrote a short group thesis analazying the tweets from politicians participating in the 2017 elections from Germany, France and UK. We used a [Structural Topic Model](https://www.structuraltopicmodel.com/) in order to understand the main drivers of the narratives used by political parties. You can find the final version of the document [here](https://yabramuvdi.github.io/files/Master_Thesis.pdf).
 
 ------
 

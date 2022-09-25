@@ -2,9 +2,10 @@
 title:  "Teaching"
 layout: archive
 permalink: /teaching/
-author_profile: true
+author_profile: false
 comments: false
 ---
+
 
 ## Summer Schools
 - **[September, 2022] @ Centro de Estudios Monetarios y Financiero (CEMFI).** *Unstructured Data in Empirical Economics.* <br> Developed practical sessions with Stephen Hansen.
