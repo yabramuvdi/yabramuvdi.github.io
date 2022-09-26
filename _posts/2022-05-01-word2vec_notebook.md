@@ -9,6 +9,8 @@ toc: true
 toc_label: "Table of Contents"
 toc_icon: "scroll"
 author_profile: false
+header:
+  teaser: /images/babel_tower.png
 ---
 
 *Understanding the nuts and bolts of Word2Vec by fully implementing it in JAX.*
