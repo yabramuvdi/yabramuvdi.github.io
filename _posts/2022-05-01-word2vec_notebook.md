@@ -15,6 +15,7 @@ header:
 
 *Understanding the nuts and bolts of Word2Vec by fully implementing it in JAX.*
 
+⚠️🚧 This post is under construction ⚠️🚧
 ------------
 
 This tutorial provides a complete step-by-step implementation of the Word2Vec model developed by [Mikolov et al. (2013)](https://arxiv.org/pdf/1301.3781.pdf%C3%AC%E2%80%94%20%C3%AC%E2%80%9E%C5%93) using [JAX](https://github.com/google/jax).
