@@ -15,6 +15,11 @@ I am currently working with professor [Stephen Hansen](https://sekhansen.github.
 - Characterizing firms within a trade network through the use of embedding models. [Here](https://yabramuvdi.github.io/files/YM_cesifo_poster.pdf) is a poster I presented at [CESifo Venice Summer Institute 2022](https://www.cesifo.org/en/event/2022-07-01/venice-summer-institute-2022-using-novel-methods-and-data-applied-microeconomic).
 - Measuring the evolution of economic uncertainty with word embeddings estimated on high-frequency news.
 
+I have also been collaborating with professor [Andrés Álvarez](https://economia.uniandes.edu.co/alvarez) in projects related to measuring income inequality and social mobility in Colombia. Some of our projects include:
+- Using modern language models (e.g. GPT-3, BLOOM) to extract family relationships from Colombian historical records. I illustrate this in a blog post here.
+- Developing a demo web application for the Inter-American Development Bank in order to estimate and visualize the distributional effects of macroeconomic shocks to different sectors of the economy. You can find the demo [here](https://obscure-tundra-95611.herokuapp.com/).
+- Developing a simple web application that allows people to locate their household within Colombia's income distribution. You can find the demo [here](https://piracy-reality-whiskey-y1uf.herokuapp.com/).
+
 ------
 
 ## Master's

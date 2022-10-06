@@ -7,17 +7,39 @@
 @import "minimal-mistakes"; // main partials
 
 html {
-    font-size: 12px; // change to whatever
+    font-size: 12px;
   
     @include breakpoint($medium) {
-      font-size: 16px; // change to whatever
+      font-size: 16px;
     }
   
     @include breakpoint($large) {
-      font-size: 18px; // change to whatever
+      font-size: 18px;
     }
   
     @include breakpoint($x-large) {
-      font-size: 20px; // change to whatever
+      font-size: 20px;
     }
+  }
+
+.red-button {
+    background-color: $primary-color;
+    border: none;
+    color: white;
+    padding: 6px 10px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 14px;
+  }
+
+.red-button:visited {
+    background-color: $primary-color;
+    border: none;
+    color: white;
+    padding: 6px 10px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 14px;
   }
