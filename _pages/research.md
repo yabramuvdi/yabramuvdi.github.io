@@ -13,7 +13,7 @@ I am currently working with professor [Stephen Hansen](https://sekhansen.github.
 
 - Developing NLP models to predict the presence of remote work on more than 500 million job postings. A manuscript is currently in preparation and the language model can be tested online [here](https://huggingface.co/spaces/yabramuvdi/wfh-app-v2).
 - Characterizing firms within a trade network through the use of embedding models. I presented [a poster](https://yabramuvdi.github.io/files/YM_cesifo_poster.pdf) for this project at the [CESifo Venice Summer Institute 2022](https://www.cesifo.org/en/event/2022-07-01/venice-summer-institute-2022-using-novel-methods-and-data-applied-microeconomic) and currently maintain a [public repository](https://github.com/yabramuvdi/bernoulli-embeddings) with all the code for estimating these embeddings.
-- Demonstrating multiple methods for algorithmic text analysis in economics for the Annual Review of Economics. [Repository with notebooks] and [current draft](https://sekhansen.github.io/pdf_files/text_algos_econ.pdf).
+- Demonstrating methods for algorithmic text analysis in economics for the Annual Review of Economics. [Current draft](https://sekhansen.github.io/pdf_files/text_algos_econ.pdf).
 - Measuring the evolution of economic uncertainty with word embeddings estimated on high-frequency news.
 
 I have also been collaborating with professor [Andrés Álvarez](https://economia.uniandes.edu.co/alvarez) in projects related to measuring income inequality and social mobility in Colombia. Some of our projects include:
@@ -34,4 +34,4 @@ As part of my master program in Data Science at the Barcelona School of Economic
 During my undergraduate at Universidad de los Andes I worked with professor [Adriana Camacho](https://economia.uniandes.edu.co/camacho) performing data analysis to better understand public policy issues related to poverty, health and education in Colombia. Some of our main projects included:
 
 - Developing econometric models with panel data to understand the causal effect of a health policy intervention in Bogotá. [Working paper](https://sistemas.colmex.mx/Reportes/LACEALAMES/LACEA-LAMES2019_paper_661.pdf).
-- Studying the evolution of household poverty in Colombia through a longitudinal survey. [Article in Spanish](https://encuestalongitudinal.uniandes.edu.co/es/publicaciones/colombia-en-movimiento/2017).
+- Studying the evolution of household poverty in Colombia through a longitudinal survey. [Article in Spanish](https://yabramuvdi.github.io/files/Cap5.pdf).

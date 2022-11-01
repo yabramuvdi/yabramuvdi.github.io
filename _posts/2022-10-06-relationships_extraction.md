@@ -9,8 +9,7 @@ toc: true
 toc_label: "Table of Contents"
 toc_icon: "scroll"
 author_profile: false
-header:
-  teaser: /images/nn.png
+excerpt: This notebook briefly demonstrates how a large language model, when properly prompted, can be used to extract multiple types of relationships between entities.
 ---
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/yabramuvdi/yabramuvdi.github.io/blob/master/_notebooks/relationships_extraction.ipynb)

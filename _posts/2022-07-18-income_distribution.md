@@ -9,8 +9,6 @@ toc: true
 toc_label: "Table of Contents"
 toc_icon: "scroll"
 author_profile: false
-header:
-  teaser: /images/inequality.png
 ---
 
 *Preliminary exploration of interactive plots for Colombia's income distribution.*

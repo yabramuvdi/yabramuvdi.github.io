@@ -4,7 +4,7 @@ layout: posts
 permalink: /blog/
 author_profile: false
 comments: false
-entries_layout: grid
+show_excerpts: true
 ---
 
 ⚠️⚠️ This page is under construction ⚠️⚠️
