@@ -9,14 +9,14 @@ toc: true
 toc_label: "Table of Contents"
 toc_icon: "scroll"
 author_profile: false
-excerpt: This notebook briefly demonstrates how a large language model, when properly prompted, can be used to extract multiple types of relationships between entities.
+excerpt: This post briefly demonstrates how a large language model, when properly prompted, can be used to extract multiple types of relationships between entities.
 ---
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/yabramuvdi/yabramuvdi.github.io/blob/master/_notebooks/relationships_extraction.ipynb)
 
 *Can large language models extract relationships between entities in text data?*
 
-This notebook briefly demonstrates how a large language model, when properly prompted, can be used to extract multiple types of relationships between entities.
+This post briefly demonstrates how a large language model, when properly prompted, can be used to extract multiple types of relationships between entities.
 
 ------------
 
