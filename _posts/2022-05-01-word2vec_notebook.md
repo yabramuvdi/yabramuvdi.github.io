@@ -18,14 +18,6 @@ author_profile: false
 
 This tutorial provides a complete step-by-step implementation of the Word2Vec model developed by [Mikolov et al. (2013)](https://arxiv.org/pdf/1301.3781.pdf%C3%AC%E2%80%94%20%C3%AC%E2%80%9E%C5%93) using [JAX](https://github.com/google/jax).
 
-Some resources on Word2Vec:
-- https://web.stanford.edu/~jurafsky/slp3/6.pdf
-- https://arxiv.org/pdf/1411.2738.pdf
-- https://jalammar.github.io/illustrated-word2vec/
-
-Some resources on JAX:
-- https://colab.research.google.com/github/google/jax/blob/master/docs/notebooks/neural_network_with_tfds_data.ipynb#scrollTo=6lTI6I4lWdh5
-- https://jax.readthedocs.io/en/latest/notebooks/autodiff_cookbook.html
 
 ## **0. Setup**
 
