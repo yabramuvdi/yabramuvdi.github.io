@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "Bernoulli Embeddings: A demonstration using the MovieLens dataset"
-date: 2022-11-05
+date: 2022-11-01
 use_math: true
 comments: true
 []: #classes: wide
