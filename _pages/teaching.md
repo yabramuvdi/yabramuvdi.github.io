@@ -8,6 +8,7 @@ comments: false
 
 
 ## Summer schools
+- **[June, 2024] @ IESE Business School** *[Large Language Models and Machine Learning for Unstructured Data](https://www.iese.edu/faculty-research/large-language-models-machine-learning/)* <br>
 - **[September, 2023] @ Centro de Estudios Monetarios y Financiero (CEMFI).** *Unstructured Data in Empirical Economics.* <br> Developed practical sessions.
 - **[June, 2022] @ IESE Business School** *[Machine Learning for Textual and Unstructured Data](https://www.iese.edu/faculty-research/machine-learning-data-seminar/)* <br> Developed practical sessions.
 - **[September, 2022] @ Centro de Estudios Monetarios y Financiero (CEMFI).** *Unstructured Data in Empirical Economics.* <br> Developed practical sessions.
