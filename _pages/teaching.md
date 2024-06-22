@@ -7,13 +7,20 @@ comments: false
 ---
 
 
-## Summer schools
-- **[June, 2024] @ IESE Business School.** *[Large Language Models and Machine Learning for Unstructured Data](https://www.iese.edu/faculty-research/large-language-models-machine-learning/)* <br>
-- **[September, 2023] @ Centro de Estudios Monetarios y Financiero (CEMFI).** *Unstructured Data in Empirical Economics.* <br> Developed practical sessions.
-- **[June, 2023] @ IESE Business School.** *[Machine Learning for Textual and Unstructured Data](https://www.iese.edu/faculty-research/machine-learning-data-seminar/)* <br> Developed practical sessions.
-- **[September, 2022] @ Centro de Estudios Monetarios y Financiero (CEMFI).** *Unstructured Data in Empirical Economics.* <br> Developed practical sessions.
+## Master classes
+
+I have taught several master classes focusing on the use of modern machine learning techniques to work with unstructured data (e.g. text, images, audio). If you're interested in having a course like this at your institution, feel free to reach out—I'd love to chat.
+
+- **[June, 2024] @ IESE Business School.** *[Large Language Models and Machine Learning for Unstructured Data](https://www.iese.edu/faculty-research/large-language-models-machine-learning/).* <br> Main topics included: Working with LLMs through APIs, effective prompt generation, RAG, finetunning LLMs, image processing, multimodal LLMs. 
+- **[September, 2023] @ Centro de Estudios Monetarios y Financiero (CEMFI).** *Unstructured Data in Empirical Economics.* <br> Main topics included: Text preprocessing, dictionary methods, word embeddings, finetunning LLMs. 
+- **[June, 2023] @ IESE Business School.** *[Machine Learning for Textual and Unstructured Data](https://www.iese.edu/faculty-research/machine-learning-data-seminar/).* <br> 
+- **[September, 2022] @ Centro de Estudios Monetarios y Financiero (CEMFI).**
 
 --------
+
+## Graduate teaching
+- **[2024] @ ETH Zurich** *Supervised Research* <br> Teaching assistant.
+- **[2023] @ ETH Zurich** *Building a Robot Judge* <br> Teaching assistant.
 
 ## Undergraduate teaching
 - **[2018] @ Universidad de los Andes, Economics Department.** *Doing Economics I.* <br> Teaching assistant with professor [Andrés Álvarez](https://economia.uniandes.edu.co/alvarez). <br><br>
