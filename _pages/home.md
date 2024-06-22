@@ -8,7 +8,7 @@ comments: false
 ---
 # About me
 
-I am and economist and data scientist with experience using methods from machine learning, natural language processing, and causal inference to contribute to the understanding of problems in a wide variety of fields. At the moment, I am particularly drawn to studying the risks introduced by deploying algorithmic decision-making systems in high-​stake environments (e.g. labor market, criminal law, credit scoring) and developing methods to mitigate these risks. 
+I am an economist and data scientist with experience using methods from machine learning, natural language processing, and causal inference to contribute to the understanding of problems in a wide variety of fields. At the moment, I am particularly drawn to studying the risks introduced by deploying algorithmic decision-making systems in high-​stake environments (e.g. labor market, criminal law, credit scoring) and developing methods to mitigate these risks. 
 
 Currently, I work as a Ph.D. researcher at the Data Science, Economics, and Law group at ETH Zürich where I am also a member of the AI Center. Before joining ETH Zürich, I was a predoctoral researcher in economics and machine learning at the [Barcelona School of Economics](https://datascience.bse.eu/team/yabra-muvdi/) where I worked with Professor [Stephen Hansen](https://sekhansen.github.io/) to build models and tools for the use of unstructured data in economic analysis. 
 
