@@ -14,6 +14,6 @@ Currently, I work as a Ph.D. researcher at the Data Science, Economics, and Law 
 
 I hold an M.Sc. in Data Science from the [Barcelona School of Economics](https://bse.eu/) and a B.A. in Economics from [Universidad de los Andes](https://economia.uniandes.edu.co/). Back in Colombia, I worked in the international development sector doing data analysis to inform the design of social programs.
 
-I also enjoy teaching and have delivered multiple courses on machine learning, natural language processing, and causal inference.
+I also enjoy teaching and have delivered multiple courses on machine learning, natural language processing, and causal inference. Check my [teaching page](./teaching.md) for more info.
 
 If you happen to have any overlapping interestes or just want to reach out, you can contact me at: yabran [dot] muvdi [at] gmail [dot] com .
