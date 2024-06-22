@@ -19,8 +19,8 @@ I have taught several master classes focusing on the use of modern machine learn
 --------
 
 ## Graduate teaching
-- **[2024] @ ETH Zurich** *Supervised Research* <br> Teaching assistant.
-- **[2023] @ ETH Zurich** *Building a Robot Judge* <br> Teaching assistant.
+- **[2024] @ ETH Zurich.** *Supervised Research* <br> Teaching assistant.
+- **[2023] @ ETH Zurich.** *Building a Robot Judge* <br> Teaching assistant.
 
 ## Undergraduate teaching
 - **[2018] @ Universidad de los Andes, Economics Department.** *Doing Economics I.* <br> Teaching assistant with professor [Andrés Álvarez](https://economia.uniandes.edu.co/alvarez). <br><br>
