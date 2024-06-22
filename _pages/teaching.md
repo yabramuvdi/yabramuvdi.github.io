@@ -14,7 +14,7 @@ I have taught several master classes focusing on the use of modern machine learn
 - **[June, 2024] @ IESE Business School.** *[Large Language Models and Machine Learning for Unstructured Data](https://www.iese.edu/faculty-research/large-language-models-machine-learning/).* <br> Main topics included: Working with LLMs through APIs, effective prompt generation, RAG, finetunning LLMs, image processing, multimodal LLMs. 
 - **[September, 2023] @ Centro de Estudios Monetarios y Financiero (CEMFI).** *Unstructured Data in Empirical Economics.* <br> Main topics included: Text preprocessing, dictionary methods, word embeddings, finetunning LLMs. 
 - **[June, 2023] @ IESE Business School.** *[Machine Learning for Textual and Unstructured Data](https://www.iese.edu/faculty-research/machine-learning-data-seminar/).* <br> 
-- **[September, 2022] @ Centro de Estudios Monetarios y Financiero (CEMFI).**
+- **[September, 2022] @ Centro de Estudios Monetarios y Financiero (CEMFI).** *Unstructured Data in Empirical Economics.* <br>
 
 --------
 
