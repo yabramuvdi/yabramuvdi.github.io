@@ -6,7 +6,12 @@ author_profile: false
 comments: false
 ---
 
-
+## Doctoral research
+- Currently writing a chapter for the Handbook of Economic and Language about large language models and their applications in economics.
+- Partnered with the Swiss Government (SECO) to develop a recommender system for the public employment service (RAV) to increase the quality of job matches. Integrated into the system strategies to reduce potential biases and explanations of the machine learning model predictions.
+- Developing a taxonomy of explainable machine learning techniques and a field experiment to test how they affect people’s perception of automated decisions.
+- Supported the development of three different courses.
+  
 ## Predoctoral research
 
 I worked with professor [Stephen Hansen](https://sekhansen.github.io/) to build models and tools for the use of unstructured data in economic analysis. Some of our main projects include:
