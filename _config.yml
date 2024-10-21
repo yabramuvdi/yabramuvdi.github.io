@@ -104,9 +104,7 @@ analytics:
 author:
   name             : "Yabra Muvdi"
   avatar           : "/images/bio_photo.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "*Doctoral Researcher* <br>
-                      *ETH Zurich*
-                      "
+  bio              : ""
   #location         : "Somewhere in the world"
   #email            : ""
   github           : "yabramuvdi"
