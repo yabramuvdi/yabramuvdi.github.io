@@ -1,14 +1,14 @@
 # main links
-main:
-  - title: "Home"
-    url: /
-  - title: "Research"
-    url: /research/
-  - title: "Teaching"
-    url: /teaching/
-  - title: "Blog"
-    url: /blog/
-  - title: "Other"
-    url: /other/
-  - title: "CV"
-    url: https://yabramuvdi.github.io/files/CV.pdf
+#main:
+#  - title: "Home"
+#    url: /
+#  - title: "Research"
+#    url: /research/
+#  - title: "Teaching"
+#    url: /teaching/
+#  - title: "Blog"
+#    url: /blog/
+#  - title: "Other"
+#    url: /other/
+#  - title: "CV"
+#    url: https://yabramuvdi.github.io/files/CV.pdf
